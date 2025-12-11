@@ -1,8 +1,7 @@
 # Anti-Calculator – UAE Mortgage Assistant (Buy vs Rent Scenario)
 
 CoinedOne Challenge Submission – Built in <12h with Cursor + Claude + v0.dev.
-
-Live Demo: https://anti-calculator.vercel.app  
+ 
 GitHub: https://github.com/Navendar/anti-calculator  
 
 ### Quickstart
@@ -13,3 +12,4 @@ GitHub: https://github.com/Navendar/anti-calculator
 ### Deployment
 - Frontend (Next.js): Vercel (free).
 - Backend (FastAPI): Render (free).
+
